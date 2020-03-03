@@ -1,0 +1,23 @@
+[
+  {
+    "username": "Harper",
+    "password": "Gregory",
+    "UserId": 1
+  },
+  {
+    "username": "Melvin",
+    "password": "Ishmael",
+    "UserId": 2
+  },
+  {
+    "username": "Tyler",
+    "password": "Ryder",
+    "UserId": 3
+  },
+  { "username": "Damian", "password": "Quinn", "UserId": 4 },
+  { "username": "Stuart", "password": "Ulysses", "UserId": 5 },
+  { "username": "Jared", "password": "Rajah", "UserId": 6 },
+  { "username": "Timothy", "password": "Rajah", "UserId": 7 },
+  { "username": "Channing", "password": "Lane", "UserId": 8 },
+  { "UserId": 9, "username": "Ethan", "password": "Anthony" }
+]
